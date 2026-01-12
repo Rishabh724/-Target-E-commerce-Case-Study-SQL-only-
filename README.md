@@ -4,6 +4,7 @@
 
 
 🛒 Target Brazil E-commerce Case Study (SQL | Data Analytics)
+
 📌 Project Summary
 
 This project showcases end-to-end data analysis using SQL on Target’s Brazilian e-commerce dataset (2016–2018).
