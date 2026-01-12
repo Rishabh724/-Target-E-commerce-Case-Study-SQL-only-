@@ -1,3 +1,5 @@
+![Target](https://github.com/user-attachments/assets/f8aed6ed-2a05-46c2-8847-c3f2b629201e)
+
 🛒 Target Brazil E-commerce Case Study (SQL | Data Analytics)
 📌 Project Summary
 
