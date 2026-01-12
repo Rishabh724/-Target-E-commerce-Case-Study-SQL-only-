@@ -1,4 +1,7 @@
-![Target](https://github.com/user-attachments/assets/f8aed6ed-2a05-46c2-8847-c3f2b629201e)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e1af77ae-a41e-4962-94c3-9a272e5d4b23" />
+
+
+
 
 🛒 Target Brazil E-commerce Case Study (SQL | Data Analytics)
 📌 Project Summary
